@@ -1,3 +1,5 @@
-DeliverFact Give me a fact
-DeliverFact Give me a fact about Redding F.C.
-DeliverFact Give me a Redding F.C. fact
+DeliverFact give me a fact
+DeliverFact give me a fact about redding f. c.
+DeliverFact give me a fact about reading f. c.
+DeliverFact give me a redding f. c. fact
+DeliverFact give me a reading f. c. fact
